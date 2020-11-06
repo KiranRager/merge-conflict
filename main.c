@@ -7,7 +7,8 @@ Initial Function()
 
 Initial Security()
 {
- //Sample Code
+   double a=2231.25;
+   int b = (int)a;
 }
 
 
