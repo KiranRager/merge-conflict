@@ -7,7 +7,8 @@ Initial Function()
 
 feaature2()
 {
-  //Sample Code for Feature 2
+  string s = "This is a sample code";
+  Console.WriteLine(s);
 }
 
 
